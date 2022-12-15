@@ -1,3 +1,3 @@
 # mywebsite
 
-https://jsefd.github.io/mywebsite/personal website.html
+https://jsefd.github.io/mywebsite/personal%20website.html
